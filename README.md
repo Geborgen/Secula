@@ -6,6 +6,7 @@ Your ultimate goal is to beat the Ender Dragon, and whatever comes after... but 
 Secula, derived from the Latin word saecula, means ages, eternity, forever. That is how long the universe has been plagued with interdimensional terrors, until you come along. How will you delve into the secrets of this evil? Will you purge the corruption, or harness it and conquer?
 
 Features:
+
 -200+ mods to create a fleshed-out world with plenty of content
 
 -Many new bosses and structures, filled with hidden lore
