@@ -29,6 +29,6 @@ Features:
 -A lot of quality of life mods to make an enjoyable Minecraft experience
 
 
-Default keymap: https://tinyurl.com/2p322x7n
+Default keymap: https://tinyurl.com/bdfzs2uc
 
 Discord: https://discord.com/invite/WC9ZqcTsmd
