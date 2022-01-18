@@ -7,16 +7,28 @@ Secula, derived from the Latin word saecula, means ages, eternity, forever. That
 
 Features:
 -A fleshed-out world with plenty of content
+
 -Many new bosses and structures
+
 -Expansions to the Nether and End
+
 -Overworld overhaul with many new biomes and epic caves
+
 -Many quests to aid with progression
+
 -Create for automation and resources
+
 -Ars Nouveau for power
+
 -Tameable (and rideable!) dragons
+
 -Many new enchantments
+
 -An enticing storyline pieced together through scraps of lore
+
 -A lot of quality of life mods
 
-Default keymap: https://tinyurl.com/ybwuasvs
+
+Default keymap: https://tinyurl.com/2p322x7n
+
 Discord: https://discord.com/invite/WC9ZqcTsmd
