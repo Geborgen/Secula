@@ -27,6 +27,8 @@ Features:
 
 -An enticing storyline pieced together through scraps of lore
 
+-Consistency, with minimal duplicate items & features
+
 -A lot of quality of life mods to make an enjoyable Minecraft experience
 
 
