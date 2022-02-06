@@ -11,7 +11,11 @@ Features:
 
 -Many new bosses and structures, filled with hidden lore
 
--Expansions to the Nether and End
+-Unique progression system to the End
+
+-Overhauled Ender Dragon fight, with over double vanilla HP
+
+-Other expansions to the Nether and End
 
 -Overworld overhaul with many new biomes and epic caves
 
