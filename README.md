@@ -7,20 +7,19 @@ Secula, derived from the Latin word saecula, means ages, eternity, forever. That
 
 Features:
 
-
-    200+ mods to create a fleshed-out world with plenty of content
-    Many new bosses and structures
-    Unique progression system to the End
-    Overhauled Ender Dragon fight, with over double vanilla HP
-    Other expansions to the Nether and End
-    Overworld overhaul with many new biomes and epic caves
-    Quests to aid with progression
-    Create's steampunk technology for automation and resources
-    Ars Nouveau's magic for ultimate power
-    Wyrmroost's tame-able (and rideable!) dragons
-    Lots of new enchantments and magical content
-    Consistency, with minimal duplicate items & features
-    A lot of quality of life mods to make an enjoyable Minecraft experience
+   200+ mods to create a fleshed-out world with plenty of content
+   Many new bosses and structures
+   Unique progression system to the End
+   Overhauled Ender Dragon fight, with over double vanilla HP
+   Other expansions to the Nether and End
+   Overworld overhaul with many new biomes and epic caves
+   Quests to aid with progression
+   Create's steampunk technology for automation and resources
+   Ars Nouveau's magic for ultimate power
+   Wyrmroost's tame-able (and rideable!) dragons
+   Lots of new enchantments and magical content
+   Consistency, with minimal duplicate items & features
+   A lot of quality of life mods to make an enjoyable Minecraft experience
 
 
 
