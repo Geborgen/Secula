@@ -38,4 +38,4 @@ Features:
 
 Default keymap: https://tinyurl.com/4ms53scm
 
-Discord: https://discord.com/invite/WC9ZqcTsmd
+Discord: https://discord.gg/WC9ZqcTsmd
