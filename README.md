@@ -36,6 +36,6 @@ Features:
 
 
 
-Default keymap: https://tinyurl.com/ypu2p3n4
+Default keymap: https://tinyurl.com/4ms53scm
 
 Discord: https://discord.com/invite/WC9ZqcTsmd
