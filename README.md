@@ -33,9 +33,8 @@ Features:
    
 * A lot of quality of life mods to make an enjoyable Minecraft experience
    
-
-
-
 Default keymap: https://tinyurl.com/4ms53scm
+
+Curseforge: https://www.curseforge.com/minecraft/modpacks/secula
 
 Discord: https://discord.gg/WC9ZqcTsmd
