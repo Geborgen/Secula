@@ -3,7 +3,7 @@ Secula is a Forge 1.16.5 modpack about progression through magic and technology 
 
 Your ultimate goal is to beat the Ender Dragon, and whatever comes after... but many tasks lie in your way. Automation through mods like Create and Ars Nouveau will be required, and you may find progression through the game different than what you may be used to. This modpack is not strictly hardcore-tech, but it's not Vanilla+ either. Built on top of what Minecraft provides story-wise, this modpack expands the storyline past the dragon.
 
-Secula, derived from the Latin word saecula, means ages, eternity, forever. That is how long the universe has been plagued with interdimensional terrors, until you come along. How will you delve into the secrets of this evil?
+Secula, derived from the Latin word saecula, means a lifetime. That is how long the universe has been plagued with interdimensional terrors, until you come along. How will you delve into the secrets of this evil?
 
 Features:
 
