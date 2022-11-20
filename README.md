@@ -37,4 +37,4 @@ Default keymap: https://tinyurl.com/4ms53scm
 
 Curseforge: https://www.curseforge.com/minecraft/modpacks/secula
 
-Discord: https://discord.gg/WC9ZqcTsmd
+Discord: https://discord.gg/9cRs3KPyuW
