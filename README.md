@@ -23,5 +23,5 @@ Secula, derived from the Latin word saecula, means a lifetime. That is how long 
 
 ## Links 
 - [Curseforge](https://www.curseforge.com/minecraft/modpacks/secula)
-- [Default Keymap](http://www.keyboard-layout-editor.com/#/gists/8b58d43c292f2bfd403be7be4447355c)
 - [Discord](https://discord.gg/9cRs3KPyuW)
+- [Default Keymap](http://www.keyboard-layout-editor.com/#/gists/8b58d43c292f2bfd403be7be4447355c)
